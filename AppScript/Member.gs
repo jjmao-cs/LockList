@@ -5,7 +5,7 @@ var CIRCUIT = []
 var SOLID = []
 var COMM = []
 var EFIVE = []
-var PYTHON = ['python@quick-country-232516.iam.gserviceaccount.com']
+var PYTHON = ['{PYTHON_SCRIPT_EMAIL}']
 
 
 function getMember(){
